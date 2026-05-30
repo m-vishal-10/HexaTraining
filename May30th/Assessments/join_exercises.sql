@@ -1,0 +1,23 @@
+SELECT
+    c.customer_id,
+    c.customer_name,
+    o.order_id,
+    o.product_name
+FROM customers c
+INNER JOIN orders o
+ON c.customer_id = o.customer_id;
+
+SELECT
+    c.customer_name,
+    o.product_name
+FROM customers c
+LEFT JOIN orders o
+ON c.customer_id = o.customer_id;
+
+SELECT
+    c.customer_name,
+    o.product_name
+FROM customers c
+RIGHT JOIN orders o
+ON c.customer_id = o.customer_id;
+
