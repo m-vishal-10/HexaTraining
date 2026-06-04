@@ -1,15 +1,10 @@
-// ============================================================
-// MongoDB Capstone Project 2 - EdTech Platform
-// Database: edtech_capstone_db
-// ============================================================
+
 
 use("edtech_capstone_db");
 
-// ============================================================
 // COLLECTION CREATION & DATA INSERTION
-// ============================================================
 
-// Collection 1: learners
+//  learners
 db.learners.insertMany([
   { learner_id: 1, name: "Rahul Sharma", city: "Hyderabad", experience_years: 2, goal: "Data Engineer",  phone: "9876543210" },
   { learner_id: 2, name: "Priya Reddy",  city: "Bangalore",  experience_years: 4, goal: "AI Engineer",    phone: "9876543211" },
@@ -19,14 +14,14 @@ db.learners.insertMany([
   { learner_id: 6, name: "Meera Nair",   city: "Pune",       experience_years: 0, goal: "AI Engineer",    phone: null         }
 ]);
 
-// Collection 2: instructors
+// instructors
 db.instructors.insertMany([
   { instructor_id: 101, instructor_name: "Abdullah Khan", expertise: ["AI", "Data Engineering", "Cloud"],  rating: 4.9 },
   { instructor_id: 102, instructor_name: "Neha Singh",    expertise: ["Power BI", "SQL", "Analytics"],     rating: 4.6 },
   { instructor_id: 103, instructor_name: "Ravi Kumar",    expertise: ["Python", "Machine Learning"],       rating: 4.7 }
 ]);
 
-// Collection 3: courses
+//courses
 db.courses.insertMany([
   {
     course_id: 201, course_name: "Data Engineering with Azure",
@@ -55,7 +50,7 @@ db.courses.insertMany([
   }
 ]);
 
-// Collection 4: enrollments
+// enrollments
 db.enrollments.insertMany([
   {
     enrollment_id: 1001, learner_id: 1, course_id: 201,
@@ -108,9 +103,7 @@ db.enrollments.insertMany([
 ]);
 
 
-// ============================================================
-// PART 1: BASIC FIND QUERIES
-// ============================================================
+//  BASIC FIND QUERIES
 
 // Q1. Display all learners
 db.learners.find();
@@ -143,9 +136,7 @@ db.enrollments.find({ "payment.status": "Success" });
 db.learners.find({ phone: null });
 
 
-// ============================================================
-// PART 2: OPERATORS
-// ============================================================
+//  OPERATORS
 
 // Q11. Find learners having experience greater than 2 years
 db.learners.find({ experience_years: { $gt: 2 } });
@@ -169,9 +160,7 @@ db.learners.find({ city: { $in: ["Hyderabad", "Bangalore", "Pune"] } });
 db.courses.find({ category: { $ne: "Cloud" } });
 
 
-// ============================================================
-// PART 3: ARRAY QUERIES
-// ============================================================
+//  ARRAY QUERIES
 
 // Q18. Find instructors having expertise in AI
 db.instructors.find({ expertise: "AI" });
@@ -192,9 +181,7 @@ db.enrollments.find({ quiz_scores: 95 });
 db.enrollments.find({ quiz_scores: { $gt: 85 } });
 
 
-// ============================================================
-// PART 4: SORTING AND LIMIT
-// ============================================================
+// SORTING AND LIMIT
 
 // Q24. Sort courses by price descending
 db.courses.find().sort({ price: -1 });
@@ -212,9 +199,7 @@ db.learners.find().sort({ experience_years: -1 }).limit(2);
 db.instructors.find().sort({ rating: -1 });
 
 
-// ============================================================
-// PART 5: UPDATE OPERATIONS
-// ============================================================
+// UPDATE OPERATIONS
 
 // Q29. Update learner 1 city to Secunderabad
 db.learners.updateOne(
@@ -259,9 +244,7 @@ db.courses.updateOne(
 );
 
 
-// ============================================================
-// PART 6: DELETE OPERATIONS
-// ============================================================
+// DELETE OPERATIONS
 
 // Q36. Delete enrollments where payment status is Failed
 db.enrollments.deleteMany({ "payment.status": "Failed" });
@@ -270,9 +253,7 @@ db.enrollments.deleteMany({ "payment.status": "Failed" });
 db.learners.deleteMany({ experience_years: 0 });
 
 
-// ============================================================
-// PART 7: COUNT AND DISTINCT
-// ============================================================
+// COUNT AND DISTINCT
 
 // Q38. Count total learners
 db.learners.countDocuments();
@@ -293,9 +274,7 @@ db.courses.distinct("category");
 db.enrollments.distinct("payment.mode");
 
 
-// ============================================================
-// PART 8: AGGREGATION
-// ============================================================
+// AGGREGATION
 
 // Q44. Revenue by Payment Mode
 db.enrollments.aggregate([
@@ -428,9 +407,7 @@ db.enrollments.aggregate([
 ]);
 
 
-// ============================================================
-// PART 9: LOOKUP / JOIN STYLE QUERIES
-// ============================================================
+//  LOOKUP 
 
 // Q51. Enrollments with Learner Details
 db.enrollments.aggregate([
