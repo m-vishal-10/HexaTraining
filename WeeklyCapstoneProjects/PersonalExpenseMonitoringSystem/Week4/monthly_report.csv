@@ -1,0 +1,11 @@
+month,user_id,user_name,email,total_spend,monthly_budget,savings,alert_status
+2026-05-01,1,Arjun Mehta,arjun.mehta@email.com,13619.49,12000.0,-1619.49,Over Budget
+2026-05-01,3,Karthik Iyer,karthik.iyer@email.com,9537.33,11000.0,1462.67,On Track
+2026-05-01,2,Priya Nair,priya.nair@email.com,10086.24,10000.0,-86.24,Over Budget
+2026-05-01,5,Rohan Verma,rohan.verma@email.com,14437.11,13000.0,-1437.11,Over Budget
+2026-05-01,4,Sneha Reddy,sneha.reddy@email.com,10138.58,9000.0,-1138.58,Over Budget
+2026-06-01,1,Arjun Mehta,arjun.mehta@email.com,8846.66,12000.0,3153.34,On Track
+2026-06-01,3,Karthik Iyer,karthik.iyer@email.com,17540.08,11000.0,-6540.08,Over Budget
+2026-06-01,2,Priya Nair,priya.nair@email.com,6975.36,10000.0,3024.64,High Savings
+2026-06-01,5,Rohan Verma,rohan.verma@email.com,12293.07,13000.0,706.93,On Track
+2026-06-01,4,Sneha Reddy,sneha.reddy@email.com,6664.18,9000.0,2335.82,On Track

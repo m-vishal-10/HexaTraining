@@ -1,0 +1,105 @@
+date,user_id,user_name,category,amount,payment_method
+29-06-2026,,Sneha Reddy,Healthcare,725.11,Net Banking
+2026-05-26,2,Priya Nair,Healthcare,744.79,Net Banking
+06/15/2026,,Priya Nair,Dining Out,"₹1,111.20",Cash
+2026-06-03,5,Rohan Verma,Healthcare,,UPI
+03-05-2026,1,Arjun Mehta,Groceries,2096.55,Net Banking
+2026-05-10,2,Priya Nair,Transportation,,Cash
+2026-05-20,3,Karthik Iyer,Transportation,,UPI
+2026-06-29,4,Sneha Reddy,Entertainment,526.34,Net Banking
+2026-06-09,1,Arjun Mehta,Groceries,"₹1,579.20",UPI
+2026-06-12,2,Priya Nair,Entertainment,506.11,Card
+21-06-2026,4,Sneha Reddy,Dining Out,852.97,Cash
+2026-05-26,4,Sneha Reddy,Dining Out,1045.42,UPI
+2026-06-22,2,Priya Nair,Groceries,1605.3,Cash
+2026-05-16,4,Sneha Reddy,Entertainment,650.36,Card
+11-06-2026,5,Rohan Verma,Shopping,2853.43,Card
+2026-06-29,5,Rohan Verma,Dining Out,1415.17,Cash
+2026-05-12,2,Priya Nair,Transportation,,Card
+2026-05-26,5,Rohan Verma,Healthcare,615.4,UPI
+2026-05-20,2,Priya Nair,Utilities,1513.13,Net Banking
+2026-06-03,3,Karthik Iyer,Groceries,1783.71,Net Banking
+2026-05-20,5,Rohan Verma,Entertainment,415.24,Net Banking
+2026-06-10,4,Sneha Reddy,Groceries,2052.72,Net Banking
+16-05-2026,3,Karthik Iyer,Entertainment,Rs.738.57,Cash
+2026-05-08,1,Arjun Mehta,Groceries,,UPI
+2026-05-01,3,Karthik Iyer,Entertainment,₹642.32,Card
+2026-05-10,2,Priya Nair,Transportation,,Cash
+05/02/2026,2,Priya Nair,Entertainment,₹293.60,Net Banking
+2026-06-30,2,Priya Nair,Utilities,"Rs.1,612.55",Cash
+17-06-2026,3,Karthik Iyer,Entertainment,673.55,Net Banking
+2026-06-01,3,Karthik Iyer,Healthcare,923.39,Card
+20-05-2026,3,Karthik Iyer,Utilities,N/A,Card
+2026-05-11,4,Sneha Reddy,Transportation,₹258.92,Cash
+2026-05-13,2,Priya Nair,Entertainment,Rs.431.90,UPI
+03-06-2026,1,Arjun Mehta,Groceries,1989.07,Card
+2026-06-28,4,Sneha Reddy,Healthcare,Rs.753.02,Card
+2026-05-03,1,Arjun Mehta,Transportation,-438.06,UPI
+2026-06-27,1,Arjun Mehta,Shopping,1644.63,Net Banking
+2026-06-06,2,Priya Nair,Entertainment,N/A,Cash
+2026-06-19,4,Sneha Reddy,Healthcare,-891.83,Card
+04-05-2026,1,Arjun Mehta,Transportation,515.16,UPI
+2026-06-11,1,Arjun Mehta,Healthcare,653.78,Cash
+2026-05-05,5,Rohan Verma,Utilities,2114.43,Cash
+2026-06-10,5,Rohan Verma,Transportation,₹355.15,Net Banking
+23-06-2026,1,Arjun Mehta,Transportation,₹425.87,Card
+06/17/2026,2,Priya Nair,Healthcare,899.92,Net Banking
+2026-05-14,1,Arjun Mehta,Entertainment,,Cash
+2026-05-06,2,Priya Nair,Entertainment,752.26,Net Banking
+2026-05-11,1,Arjun Mehta,Entertainment,532.9,UPI
+2026-05-18,2,Priya Nair,Shopping,"₹2,732.17",Net Banking
+16-05-2026,4,Sneha Reddy,Healthcare,Rs.949.41,Cash
+2026-05-09,4,Sneha Reddy,Entertainment,₹505.39,Cash
+30-06-2026,5,Rohan Verma,Healthcare,1076.97,Cash
+2026-06-14,5,Rohan Verma,Utilities,1808.19,UPI
+06/07/2026,4,Sneha Reddy,Healthcare,708.46,Net Banking
+2026-05-27,1,Arjun Mehta,Utilities,1594.44,UPI
+28-06-2026,1,Arjun Mehta,Transportation,-470.58,Net Banking
+2026-05-28,4,Sneha Reddy,Entertainment,₹590.68,UPI
+06/22/2026,5,Rohan Verma,Healthcare,Rs.918.40,UPI
+09-06-2026,3,Karthik Iyer,Groceries,2003.29,Net Banking
+2026-06-16,3,Karthik Iyer,Utilities,"₹2,116.69",Card
+2026-06-05,4,Sneha Reddy,Transportation,613.61,Card
+2026-05-31,5,Rohan Verma,Dining Out,"₹1,758.49",Cash
+2026-06-12,3,Karthik Iyer,Groceries,2262.12,Card
+27-05-2026,1,Arjun Mehta,Dining Out,1274.41,UPI
+06/26/2026,3,Karthik Iyer,Transportation,N/A,UPI
+2026-06-30,5,Rohan Verma,Healthcare,₹729.39,Cash
+2026-05-19,5,Rohan Verma,Healthcare,897.21,UPI
+11-06-2026,1,Arjun Mehta,Healthcare,error,Net Banking
+28-06-2026,1,Arjun Mehta,Transportation,-470.58,Net Banking
+2026-06-11,,Arjun Mehta,Groceries,2251.11,Cash
+10-06-2026,5,Rohan Verma,Healthcare,"₹1,073.86",Card
+2026-05-01,3,Karthik Iyer,Entertainment,₹642.32,Card
+2026-06-30,4,Sneha Reddy,Transportation,₹260.01,Cash
+2026-06-29,5,Rohan Verma,Dining Out,1415.17,Cash
+2026-05-26,3,Karthik Iyer,Dining Out,1223.54,UPI
+2026-06-10,5,Rohan Verma,Entertainment,731.94,Card
+27-06-2026,2,Priya Nair,Entertainment,-1023.9,Cash
+08-05-2026,2,Priya Nair,Utilities,1854.3,UPI
+15-05-2026,5,Rohan Verma,Dining Out,-1244.6,Card
+2026-06-25,3,Karthik Iyer,Dining Out,711.58,UPI
+2026-05-27,4,Sneha Reddy,Dining Out,1829.27,UPI
+2026-06-07,2,Priya Nair,Healthcare,626.54,UPI
+05/06/2026,1,Arjun Mehta,Shopping,2434.47,Net Banking
+2026-06-27,1,Arjun Mehta,Shopping,1644.63,Net Banking
+2026-05-01,4,Sneha Reddy,Healthcare,"₹1,284.71",UPI
+05/22/2026,5,Rohan Verma,Shopping,"Rs.3,917.24",Net Banking
+2026-05-25,3,Karthik Iyer,Dining Out,₹988.72,UPI
+18-06-2026,2,Priya Nair,Transportation,Rs.543.58,UPI
+28-06-2026,5,Rohan Verma,Transportation,,Cash
+2026-05-24,5,Rohan Verma,Utilities,2256.51,UPI
+2026-06-03,1,Arjun Mehta,Dining Out,-865.42,Card
+2026-05-08,1,Arjun Mehta,Groceries,2119.36,Net Banking
+2026-05-17,3,Karthik Iyer,Shopping,"₹2,782.36",Cash
+2026-06-17,3,Karthik Iyer,Groceries,2359.04,UPI
+2026-05-31,4,Sneha Reddy,Shopping,1894.99,Card
+05/08/2026,5,Rohan Verma,Healthcare,805.53,Card
+05/16/2026,4,Sneha Reddy,Transportation,₹495.68,Card
+05/28/2026,,Rohan Verma,Dining Out,1290.14,UPI
+2026-06-03,3,Karthik Iyer,Groceries,1783.71,Net Banking
+2026-06-11,3,Karthik Iyer,Shopping,4273.19,UPI
+2026-05-02,5,Rohan Verma,Transportation,433.52,Card
+12-05-2026,3,Karthik Iyer,Healthcare,897.05,Net Banking
+2026-05-22,2,Priya Nair,Healthcare,N/A,Net Banking
+2026-05-30,4,Sneha Reddy,Entertainment,633.75,Card
