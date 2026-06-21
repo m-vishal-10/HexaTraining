@@ -1,0 +1,11 @@
+device_name,room_name,weekly_total_kwh,avg_reading_kwh
+Air Conditioner,Living Room,34.657,34.657
+Air Conditioner,Master Bedroom,32.227,32.227
+Refrigerator,Kitchen,9.437,9.437
+Desktop Computer,Study,9.116,9.116
+Microwave Oven,Kitchen,8.986,8.986
+Smart TV,Living Room,6.922,6.922
+Ceiling Fan,Master Bedroom,2.942,2.942
+Table Lamp,Bedroom 2,1.934,1.934
+Air Purifier,Bedroom 2,1.84,1.84
+Printer,Study,0.736,0.736

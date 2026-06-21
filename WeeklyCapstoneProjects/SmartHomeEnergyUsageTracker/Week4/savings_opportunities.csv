@@ -1,0 +1,9 @@
+usage_date,device_name,room_name,daily_energy_kwh,device_avg_daily_kwh,savings_flag
+2026-06-13,Air Conditioner,Master Bedroom,6.624,4.777,High Usage - Review
+2026-06-14,Air Conditioner,Living Room,6.541,4.777,High Usage - Review
+2026-06-17,Desktop Computer,Study,2.097,1.302,High Usage - Review
+2026-06-16,Desktop Computer,Study,1.88,1.302,High Usage - Review
+2026-06-19,Smart TV,Living Room,1.298,0.989,High Usage - Review
+2026-06-14,Ceiling Fan,Master Bedroom,0.61,0.42,High Usage - Review
+2026-06-17,Ceiling Fan,Master Bedroom,0.563,0.42,High Usage - Review
+2026-06-16,Air Purifier,Bedroom 2,0.429,0.263,High Usage - Review

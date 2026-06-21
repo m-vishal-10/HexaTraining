@@ -1,0 +1,232 @@
+timestamp,device_id,device_name,room_id,room_name,energy_kwh
+2026-06-17 16:15:00,6,Air Conditioner,3,Master Bedroom,1.0919
+2026-06-14 08:45:00,7,Table Lamp,4,Bedroom 2,0.0664
+2026-06-14 14:30:00,6,Air Conditioner,3,Master Bedroom,1.7719
+2026-06-17 11:15:00,4,Microwave Oven,2,Kitchen,0.3991
+2026-06-19 14:00:00,10,Printer,5,Study,0.0248
+2026-06-18 19:30:00,5,Ceiling Fan,3,Master Bedroom,0.1218
+2026-06-19 21:00:00,9,Desktop Computer,5,Study,0.4011
+2026-06-14 07:15:00,6,Air Conditioner,3,Master Bedroom,N/A
+2026-06-16 17:30:00,10,Printer,5,Study,0.0288
+2026-06-17 07:15:00,8,Air Purifier,4,Bedroom 2,0.09
+2026-06-18 08:00:00,4,Microwave Oven,2,Kitchen,0.4404
+2026-06-16 21:15:00,2,Air Conditioner,1,Living Room,1.571
+2026-06-14 01:30:00,10,Printer,5,Study,error
+2026-06-13 15:15:00,6,Air Conditioner,3,Master Bedroom,1.4149
+2026-06-16 03:00:00,6,Air Conditioner,3,Master Bedroom,1.1613
+2026-06-18 06:30:00,9,Desktop Computer,5,Study,0.5042
+2026-06-13 07:15:00,,Air Purifier,4,Bedroom 2,0.0958
+2026-06-18 05:45:00,10,Printer,5,Study,0.035
+2026-06-15 09:00:00,3,Refrigerator,2,Kitchen,0.479
+06/13/2026 22:15,3,Refrigerator,2,Kitchen,0.3131
+2026-06-13 13:15:00,6,Air Conditioner,3,Master Bedroom,1.6555
+2026-06-19 01:00:00,1,Smart TV,1,Living Room,0.3495
+2026-06-13 16:15:00,4,Microwave Oven,2,Kitchen,0.3197
+2026-06-19 00:15:00,10,Printer,5,Study,0.0316
+2026-06-16 04:45:00,1,Smart TV,1,Living Room,0.3774
+2026-06-17 20:30:00,4,Microwave Oven,2,Kitchen,0.3861
+2026-06-13 14:30:00,1,Smart TV,1,Living Room,0.3019
+2026-06-15 11:30:00,10,Printer,5,Study,0.0267
+2026-06-14 07:45:00,7,Table Lamp,4,Bedroom 2,0.0735
+2026-06-15 14:30:00,7,Table Lamp,4,Bedroom 2,0.0866
+2026-06-14 23:15:00,4,Microwave Oven,2,Kitchen,0.4571
+2026-06-13 02:45:00,1,Smart TV,1,Living Room,0.2952
+2026-06-16 17:30:00,7,Table Lamp,4,Bedroom 2,0.0719
+2026-06-19 10:30:00,1,Smart TV,1,Living Room,0.3718
+06/18/2026 04:30,9,Desktop Computer,5,Study,0.4553
+2026-06-17 09:15:00,10,Printer,5,Study,0.0301
+2026-06-13 14:15:00,,Table Lamp,4,Bedroom 2,0.0833
+2026-06-16 09:45:00,9,Desktop Computer,5,Study,0.4121
+2026-06-13 18:00:00,10,Printer,5,Study,0.0345
+2026-06-15 17:45:00,1,Smart TV,1,Living Room,0.2179
+2026-06-15 08:00:00,5,Ceiling Fan,3,Master Bedroom,N/A
+2026-06-15 06:45:00,3,Refrigerator,2,Kitchen,0.3867
+2026-06-16 07:45:00,5,Ceiling Fan,3,Master Bedroom,
+2026-06-15 18:00:00,6,Air Conditioner,3,Master Bedroom,1.1454
+2026-06-19 20:15:00,6,Air Conditioner,3,Master Bedroom,1.6711
+2026-06-15 22:15:00,8,Air Purifier,4,Bedroom 2,N/A
+2026-06-15 14:15:00,9,Desktop Computer,5,Study,0.456
+2026-06-16 13:45:00,9,Desktop Computer,5,Study,0.4873
+2026-06-17 15:00:00,10,Printer,5,Study,error
+2026-06-17 10:00:00,6,Air Conditioner,3,Master Bedroom,1.7544
+2026-06-13 12:30:00,7,Table Lamp,4,Bedroom 2,0.0898
+06/13/2026 11:30,10,Printer,5,Study,0.0347
+2026-06-15 14:00:00,9,Desktop Computer,5,Study,0.4645
+2026-06-13 07:15:00,6,Air Conditioner,3,Master Bedroom,1.7291
+2026-06-15 09:00:00,5,Ceiling Fan,3,Master Bedroom,0.1616
+2026-06-16 06:45:00,3,Refrigerator,2,Kitchen,0.3684
+06/16/2026 14:00,8,Air Purifier,4,Bedroom 2,0.1159
+2026-06-14 05:45:00,2,Air Conditioner,1,Living Room,
+2026-06-18 04:45:00,4,Microwave Oven,2,Kitchen,0.4208
+2026-06-13 15:15:00,5,Ceiling Fan,3,Master Bedroom,0.1457
+2026-06-15 18:45:00,10,Printer,5,Study,0.0308
+2026-06-19 15:00:00,2,Air Conditioner,1,Living Room,2.0862
+2026-06-15 14:45:00,1,Smart TV,1,Living Room,0.3184
+2026-06-19 13:15:00,3,Refrigerator,2,Kitchen,0.3654
+2026-06-17 16:00:00,3,Refrigerator,2,Kitchen,0.359
+2026-06-16 04:00:00,9,Desktop Computer,5,Study,0.52
+2026-06-15 22:45:00,2,Air Conditioner,1,Living Room,N/A
+2026-06-16 10:00:00,8,Air Purifier,4,Bedroom 2,0.1023
+06/15/2026 01:15,7,Table Lamp,4,Bedroom 2,0.086
+2026-06-14 11:45:00,3,Refrigerator,2,Kitchen,N/A
+2026-06-18 20:00:00,2,Air Conditioner,1,Living Room,1.452
+2026-06-18 13:15:00,10,Printer,5,Study,0.0298
+2026-06-15 18:15:00,6,Air Conditioner,3,Master Bedroom,1.1652
+2026-06-19 05:00:00,,Air Conditioner,3,Master Bedroom,1.6112
+2026-06-18 14:00:00,4,Microwave Oven,2,Kitchen,0.4059
+2026-06-14 10:45:00,5,Ceiling Fan,3,Master Bedroom,0.1185
+2026-06-14 13:30:00,1,Smart TV,1,Living Room,0.2703
+2026-06-19 11:15:00,4,Microwave Oven,2,Kitchen,0.4752
+2026-06-14 05:30:00,5,Ceiling Fan,3,Master Bedroom,0.1485
+2026-06-16 19:15:00,8,Air Purifier,4,Bedroom 2,0.1064
+2026-06-18 19:45:00,3,Refrigerator,2,Kitchen,0.4388
+2026-06-18 11:45:00,6,Air Conditioner,3,Master Bedroom,1.159
+06/19/2026 04:45,7,Table Lamp,4,Bedroom 2,0.0769
+2026-06-14 08:00:00,4,Microwave Oven,2,Kitchen,0.2734
+2026-06-17 12:30:00,9,Desktop Computer,5,Study,N/A
+06/13/2026 11:30,10,Printer,5,Study,0.0347
+2026-06-14 03:45:00,6,Air Conditioner,3,Master Bedroom,1.4738
+2026-06-17 06:30:00,5,Ceiling Fan,3,Master Bedroom,0.129
+2026-06-17 05:45:00,7,Table Lamp,4,Bedroom 2,0.0591
+2026-06-14 21:00:00,1,Smart TV,1,Living Room,0.3713
+2026-06-16 15:00:00,1,Smart TV,1,Living Room,0.2756
+2026-06-17 04:45:00,9,Desktop Computer,5,Study,0.4235
+2026-06-16 11:00:00,7,Table Lamp,4,Bedroom 2,0.0738
+2026-06-16 19:00:00,10,Printer,5,Study,N/A
+2026-06-13 02:15:00,1,Smart TV,1,Living Room,0.2663
+2026-06-17 12:45:00,5,Ceiling Fan,3,Master Bedroom,0.1515
+06/19/2026 22:00,2,Air Conditioner,1,Living Room,1.355
+2026-06-13 16:15:00,9,Desktop Computer,5,Study,0.572
+2026-06-19 21:00:00,7,Table Lamp,4,Bedroom 2,0.0826
+2026-06-13 07:00:00,10,Printer,5,Study,0.0319
+2026-06-15 08:15:00,3,Refrigerator,2,Kitchen,0.3506
+2026-06-15 05:30:00,7,Table Lamp,4,Bedroom 2,0.0945
+2026-06-19 16:15:00,5,Ceiling Fan,3,Master Bedroom,0.1342
+2026-06-15 02:45:00,4,Microwave Oven,2,Kitchen,0.318
+2026-06-17 04:30:00,6,Air Conditioner,3,Master Bedroom,1.6702
+2026-06-18 23:45:00,6,Air Conditioner,3,Master Bedroom,1.0451
+2026-06-16 22:30:00,6,Air Conditioner,3,Master Bedroom,1.2236
+2026-06-13 08:15:00,3,Refrigerator,2,Kitchen,0.5393
+2026-06-19 17:15:00,9,Desktop Computer,5,Study,0.4756
+2026-06-16 00:30:00,5,Ceiling Fan,3,Master Bedroom,0.1259
+06/18/2026 00:45,1,Smart TV,1,Living Room,0.3094
+2026-06-15 02:30:00,7,Table Lamp,4,Bedroom 2,-0.0799
+2026-06-19 17:30:00,4,Microwave Oven,2,Kitchen,0.3461
+2026-06-17 11:00:00,1,Smart TV,1,Living Room,0.2583
+2026-06-13 21:30:00,2,Air Conditioner,1,Living Room,1.3982
+2026-06-13 12:30:00,8,Air Purifier,4,Bedroom 2,0.1236
+2026-06-17 02:15:00,1,Smart TV,1,Living Room,0.2648
+2026-06-15 10:30:00,10,Printer,5,Study,0.0316
+2026-06-15 19:30:00,2,Air Conditioner,1,Living Room,1.2452
+2026-06-18 04:15:00,7,Table Lamp,4,Bedroom 2,0.0767
+2026-06-17 16:00:00,7,Table Lamp,4,Bedroom 2,0.0671
+2026-06-19 09:15:00,7,Table Lamp,4,Bedroom 2,0.1016
+2026-06-18 10:30:00,6,Air Conditioner,3,Master Bedroom,0.6842
+2026-06-15 22:15:00,8,Air Purifier,4,Bedroom 2,N/A
+2026-06-13 07:15:00,3,Refrigerator,2,Kitchen,0.3739
+06/18/2026 05:45,2,Air Conditioner,1,Living Room,1.7549
+2026-06-14 12:15:00,4,Microwave Oven,2,Kitchen,
+2026-06-18 00:00:00,10,Printer,5,Study,0.0216
+2026-06-15 11:45:00,1,Smart TV,1,Living Room,0.2865
+2026-06-19 18:00:00,8,Air Purifier,4,Bedroom 2,0.1076
+2026-06-16 03:45:00,2,Air Conditioner,1,Living Room,error
+2026-06-14 13:00:00,2,Air Conditioner,1,Living Room,1.9135
+2026-06-18 20:15:00,2,Air Conditioner,1,Living Room,1.3992
+2026-06-17 22:45:00,9,Desktop Computer,5,Study,0.4828
+2026-06-18 00:15:00,5,Ceiling Fan,3,Master Bedroom,0.1431
+2026-06-19 19:30:00,8,Air Purifier,4,Bedroom 2,0.0801
+2026-06-18 21:00:00,1,Smart TV,1,Living Room,0.2566
+06/17/2026 02:30,5,Ceiling Fan,3,Master Bedroom,0.1439
+2026-06-19 12:45:00,10,Printer,5,Study,0.0309
+2026-06-19 16:15:00,3,Refrigerator,2,Kitchen,0.4211
+2026-06-16 03:45:00,8,Air Purifier,4,Bedroom 2,0.1044
+2026-06-14 05:30:00,5,Ceiling Fan,3,Master Bedroom,0.1485
+2026-06-14 21:30:00,5,Ceiling Fan,3,Master Bedroom,0.1621
+2026-06-16 03:45:00,1,Smart TV,1,Living Room,0.325
+2026-06-17 20:30:00,9,Desktop Computer,5,Study,0.7263
+2026-06-14 21:15:00,3,Refrigerator,2,Kitchen,0.3889
+2026-06-16 00:45:00,3,Refrigerator,2,Kitchen,0.3881
+2026-06-16 21:15:00,4,Microwave Oven,2,Kitchen,0.2869
+2026-06-18 12:30:00,3,Refrigerator,2,Kitchen,0.5164
+2026-06-17 08:15:00,2,Air Conditioner,1,Living Room,1.5034
+2026-06-19 02:45:00,10,Printer,5,Study,0.0345
+2026-06-19 06:15:00,5,Ceiling Fan,3,Master Bedroom,0.1584
+2026-06-19 17:30:00,3,Refrigerator,2,Kitchen,0.3137
+06/16/2026 10:30,9,Desktop Computer,5,Study,0.4602
+2026-06-17 01:45:00,8,Air Purifier,4,Bedroom 2,0.1134
+2026-06-16 04:15:00,4,Microwave Oven,2,Kitchen,0.4735
+2026-06-14 23:30:00,4,Microwave Oven,2,Kitchen,0.2878
+2026-06-17 02:30:00,6,Air Conditioner,3,Master Bedroom,1.5519
+2026-06-17 05:45:00,4,Microwave Oven,2,Kitchen,0.3003
+2026-06-13 18:00:00,5,Ceiling Fan,3,Master Bedroom,0.1348
+2026-06-19 10:45:00,4,Microwave Oven,2,Kitchen,0.2948
+2026-06-19 21:00:00,9,Desktop Computer,5,Study,0.4011
+2026-06-16 09:15:00,3,Refrigerator,2,Kitchen,0.4766
+2026-06-14 17:15:00,8,Air Purifier,4,Bedroom 2,0.0881
+2026-06-17 04:15:00,1,Smart TV,1,Living Room,0.3347
+2026-06-14 21:00:00,2,Air Conditioner,1,Living Room,1.3252
+2026-06-15 18:45:00,4,Microwave Oven,2,Kitchen,0.4339
+2026-06-14 01:00:00,9,Desktop Computer,5,Study,
+2026-06-15 14:00:00,6,Air Conditioner,3,Master Bedroom,error
+2026-06-18 20:30:00,9,Desktop Computer,5,Study,0.3579
+2026-06-18 18:30:00,8,Air Purifier,4,Bedroom 2,0.0839
+2026-06-15 23:30:00,6,Air Conditioner,3,Master Bedroom,1.5194
+2026-06-17 20:15:00,5,Ceiling Fan,3,Master Bedroom,
+2026-06-18 20:00:00,2,Air Conditioner,1,Living Room,1.452
+2026-06-15 15:00:00,4,Microwave Oven,2,Kitchen,0.4205
+2026-06-16 23:00:00,10,Printer,5,Study,0.036
+2026-06-14 01:30:00,2,Air Conditioner,1,Living Room,1.8504
+2026-06-13 05:00:00,5,Ceiling Fan,3,Master Bedroom,0.1288
+2026-06-14 18:00:00,7,Table Lamp,4,Bedroom 2,-0.0624
+2026-06-17 13:45:00,3,Refrigerator,2,Kitchen,N/A
+06/14/2026 15:00,9,Desktop Computer,5,Study,0.5553
+06/16/2026 19:15,5,Ceiling Fan,3,Master Bedroom,0.1308
+2026-06-16 14:30:00,2,Air Conditioner,1,Living Room,1.442
+2026-06-13 19:45:00,4,Microwave Oven,2,Kitchen,-0.3686
+2026-06-14 05:30:00,10,Printer,5,Study,0.0308
+2026-06-13 17:30:00,4,Microwave Oven,2,Kitchen,error
+06/18/2026 22:15,6,Air Conditioner,3,Master Bedroom,1.4679
+2026-06-19 21:30:00,8,Air Purifier,4,Bedroom 2,0.0922
+2026-06-17 07:15:00,7,Table Lamp,4,Bedroom 2,0.07
+2026-06-16 17:45:00,6,Air Conditioner,3,Master Bedroom,1.1115
+2026-06-19 16:45:00,,Air Conditioner,1,Living Room,1.3989
+2026-06-17 16:00:00,7,Table Lamp,4,Bedroom 2,0.0723
+06/13/2026 09:15,9,Desktop Computer,5,Study,0.4326
+2026-06-13 20:30:00,6,Air Conditioner,3,Master Bedroom,1.8243
+2026-06-14 14:15:00,7,Table Lamp,4,Bedroom 2,0.0795
+2026-06-14 03:15:00,10,Printer,5,Study,0.0291
+2026-06-13 02:30:00,2,Air Conditioner,1,Living Room,1.6495
+2026-06-19 04:00:00,1,Smart TV,1,Living Room,0.237
+2026-06-17 09:45:00,8,Air Purifier,4,Bedroom 2,0.1254
+2026-06-16 09:30:00,4,Microwave Oven,2,Kitchen,0.2834
+2026-06-18 06:00:00,2,Air Conditioner,1,Living Room,1.4691
+2026-06-13 08:00:00,3,Refrigerator,2,Kitchen,0.4348
+06/13/2026 22:30,10,Printer,5,Study,0.0303
+2026-06-19 09:00:00,1,Smart TV,1,Living Room,0.3392
+2026-06-18 17:30:00,7,Table Lamp,4,Bedroom 2,0.1039
+2026-06-14 01:15:00,5,Ceiling Fan,3,Master Bedroom,0.1808
+2026-06-15 07:30:00,2,Air Conditioner,1,Living Room,1.3889
+06/14/2026 09:15,3,Refrigerator,2,Kitchen,0.505
+2026-06-15 09:45:00,8,Air Purifier,4,Bedroom 2,
+06/16/2026 00:00,7,Table Lamp,4,Bedroom 2,0.0846
+2026-06-14 22:15:00,10,Printer,5,Study,0.0306
+2026-06-14 05:00:00,8,Air Purifier,4,Bedroom 2,0.0991
+2026-06-19 00:15:00,5,Ceiling Fan,3,Master Bedroom,0.1061
+2026-06-16 12:00:00,1,Smart TV,1,Living Room,0.3024
+2026-06-17 04:30:00,2,Air Conditioner,1,Living Room,1.4721
+2026-06-16 08:15:00,4,Microwave Oven,2,Kitchen,0.3655
+2026-06-17 19:45:00,3,Refrigerator,2,Kitchen,0.3396
+06/18/2026 09:15,7,Table Lamp,4,Bedroom 2,0.0947
+2026-06-18 23:45:00,3,Refrigerator,2,Kitchen,0.4717
+2026-06-16 06:15:00,7,Table Lamp,4,Bedroom 2,0.0834
+2026-06-15 02:15:00,4,Microwave Oven,2,Kitchen,0.4394
+2026-06-13 02:15:00,2,Air Conditioner,1,Living Room,1.2257
+2026-06-18 18:30:00,10,Printer,5,Study,0.0299
+2026-06-13 03:00:00,1,Smart TV,1,Living Room,0.2982
+2026-06-19 19:00:00,7,Table Lamp,4,Bedroom 2,0.0798
+2026-06-14 04:00:00,8,Air Purifier,4,Bedroom 2,0.1009
+06/18/2026 05:30,8,Air Purifier,4,Bedroom 2,N/A
+2026-06-14 19:15:00,1,Smart TV,1,Living Room,0.2939
+2026-06-17 12:00:00,2,Air Conditioner,1,Living Room,
+2026-06-16 11:30:00,2,Air Conditioner,1,Living Room,1.3473
+06/17/2026 11:00,3,Refrigerator,2,Kitchen,0.4294

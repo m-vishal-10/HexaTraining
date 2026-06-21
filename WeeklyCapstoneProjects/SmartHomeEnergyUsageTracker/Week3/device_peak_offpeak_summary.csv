@@ -1,0 +1,19 @@
+device_name,usage_period,total_energy_kwh,avg_energy_kwh
+Air Conditioner,Off-Peak,39.631,1.468
+Air Conditioner,Peak,27.254,1.434
+Air Purifier,Off-Peak,0.95,0.106
+Air Purifier,Peak,0.89,0.099
+Ceiling Fan,Off-Peak,1.527,0.139
+Ceiling Fan,Peak,1.415,0.142
+Desktop Computer,Off-Peak,5.799,0.483
+Desktop Computer,Peak,3.317,0.474
+Microwave Oven,Off-Peak,6.13,0.383
+Microwave Oven,Peak,2.856,0.357
+Printer,Off-Peak,0.488,0.03
+Printer,Peak,0.249,0.031
+Refrigerator,Off-Peak,4.043,0.404
+Refrigerator,Peak,5.395,0.415
+Smart TV,Off-Peak,5.661,0.298
+Smart TV,Peak,1.261,0.315
+Table Lamp,Off-Peak,1.202,0.08
+Table Lamp,Peak,0.732,0.081
